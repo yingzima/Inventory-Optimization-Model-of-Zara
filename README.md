@@ -1,6 +1,4 @@
-# zara
-
-An exploratory study on how Zara uses optimization model to reengineer its global distribution process.
+# How Zara Uses Optimization Model to Reengineer its Global Distribution Process
 
 As one of the fast-fashion giants, Zara is well-known for its quick response, high fashion products, competitive prices and a large number of stores. To achieve a good balance between keeping inventory displayed in order to promote sales and eliminating the impact of excess shipment requests, Zara focuses on improving its global distribution process.
 
